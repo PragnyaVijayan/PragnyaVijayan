@@ -48,7 +48,7 @@ const Home = () => {
 
                     {/* Picture / Object Block 1 */}
                     <div className="image-placeholder" style={{ gridColumn: 'span 4', minHeight: '400px', padding: 0 }}>
-                        <img src="/ai_network.png" alt="AI Network Abstract" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+                        <img src={`${import.meta.env.BASE_URL}ai_network.png`} alt="AI Network Abstract" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
                     </div>
 
                     {/* Secondary Info Block */}
@@ -59,7 +59,7 @@ const Home = () => {
 
                     {/* Picture / Object Block 2 */}
                     <div className="image-placeholder" style={{ gridColumn: 'span 8', minHeight: '250px', padding: 0, borderRadius: '24px', overflow: 'hidden' }}>
-                        <img src="/workspace.png" alt="Clean Desk Setup" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+                        <img src={`${import.meta.env.BASE_URL}workspace.png`} alt="Clean Desk Setup" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
                     </div>
 
                 </div>

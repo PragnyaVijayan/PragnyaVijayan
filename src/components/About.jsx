@@ -54,7 +54,7 @@ const About = () => {
                         {/* Profile Image / Object Block */}
                         <div className="glass-card" style={{ padding: 0, overflow: 'hidden', minHeight: '350px', display: 'flex', alignItems: 'center', justifyContent: 'center', position: 'relative' }}>
                             {/* Replace this src with your actual photo (e.g., /pragnya.jpg) */}
-                            <img src="/profile.png" alt="Pragnya" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+                            <img src={`${import.meta.env.BASE_URL}profile.png`} alt="Pragnya" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
                             <div style={{ position: 'absolute', bottom: '2rem', left: '2rem', background: 'var(--glass-bg)', backdropFilter: 'blur(16px)', padding: '1.5rem', borderRadius: '16px', border: '1px solid var(--glass-border)' }}>
                                 <span style={{ fontWeight: 600, color: 'var(--text-primary)', fontSize: '1.2rem' }}>Pragnya Vijayan</span><br />
                                 <span style={{ fontSize: '0.95rem', color: 'var(--text-secondary)' }}>AI/ML Enthusiast</span>
