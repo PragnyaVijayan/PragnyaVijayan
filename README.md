@@ -1,17 +1,12 @@
-# Quartz v4
+# 🌱 Pragnya's Digital Garden
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Welcome to the repository for my personal website and digital "thought garden"
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+## 👩‍💻 About Me
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+Hi! I'm **Pragnya Vijayan**.
+I work as an AI Software Engineer at [UKG](https://www.ukg.com/), where I focus on developing Foundation Models and building Agentic Machine Learning systems. I proudly graduated from Santa Clara University in June 2025.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+My technical journey has taken me through various roles and hackathons, including time spent as a Data Science Intern at Corcentric where I implemented NLP solutions for ticket classification.
 
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Beyond the keyboard, I love spending time learning Tamil, reading across genres, exploring New England, and building scrappy prototypes at Hackathons.
